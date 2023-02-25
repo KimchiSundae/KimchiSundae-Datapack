@@ -1,0 +1,1 @@
+summon parrot ~ ~ ~ {Silent:1b,Tags:["Organic_Nexus"],Passengers:[{id:"minecraft:armor_stand",Small:1b,Marker:1b,Invisible:1b,Tags:["Nexus"],ArmorItems:[{},{},{},{id:"minecraft:echo_shard",Count:1b,tag:{CustomModelData:782}}],ActiveEffects:[{Id:14,Amplifier:1b,Duration:999999,ShowParticles:0b}]}],ActiveEffects:[{Id:14,Amplifier:1b,Duration:999999,ShowParticles:0b}]}
